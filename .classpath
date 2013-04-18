@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/axis.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/axis2-ant-plugin-1.6.1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/commons-httpclient-3.1-beta1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/javacImpl-0.9.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/mail.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/pingservice.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/saaj.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/serverpool.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/vijava2120100824.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/jars/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
